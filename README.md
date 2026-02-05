@@ -35,7 +35,7 @@ Aimbot • Full ESP • Loot ESP • No Recoil • Silent Aim • Item Chams •
 <p align="center" style="color:#bbb; font-size:18px; margin:40px 0;">
 Direct download • No password • Run as administrator • Add folder to exclusions<br>
 Latest build: February 2026 • Undetected on live servers
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/17db8920-43f8-4f37-9043-f93dc421bf82" />
 
 </p>
 
